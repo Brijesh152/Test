@@ -2,7 +2,7 @@
 
 Public Class Class2
 
-    Public void add(int a,int b,string c)
+    Public void add(int a,int b,string c,string d)
     {
         }
 
